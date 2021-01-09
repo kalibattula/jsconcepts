@@ -16,10 +16,10 @@ const fun1 = function(){
     }, 1000);
 }
 
-const data1 = fun1()
+const data1 = fun1() 
 console.log(`The data returned from fun1() is ${data1}`)
 
-
+// comenting
 // callbacks can delay the execution of a function untill a particular time.
 const fun2 = function(callback){
     setTimeout(() => {
