@@ -1,0 +1,1 @@
+// Closure is function along with its lexical scope forms closure.
